@@ -1,7 +1,7 @@
 - [![@ambar's Holopin board](https://holopin.me/ambar)](https://holopin.io/@ambar)
 
 👋 Hi, I’m @Ambarcode
-- 👀 I’m interested in Java , Machine Learning , R programming
+- 👀 I’m interested in Java, Python and C
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking for internships
 - 📫 How to reach me ...
