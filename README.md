@@ -1,31 +1,36 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://github.com/Ambarcode/Ambarcode/blob/main/header.png" alt="Ambar Kansal Header">
-</p>
-
-<!-- Intro -->
+<!-- Introduction -->
 <p align="center">
   <samp>
-    👋 Hi there, I'm Ambar Kansal! 🚀<br>
-    I'm passionate about coding and exploring new technologies.<br>
-    Welcome to my GitHub universe! ✨
+    <h1>👋 Hi there, I'm Ambar Kansal!</h1>
+    💻 Passionate about coding and technology<br>
+    🌟 Exploring the realms of Machine Learning<br>
+    🚀 Always learning, always growing<br>
+    🎯 Seeking exciting internship opportunities<br>
+    🌐 Check out my Holopin board for a visual journey!<br>
   </samp>
 </p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://holopin.io/@ambar"><img src="https://img.shields.io/badge/holopin-%40ambar-ff69b4"></a>
-  <a href="https://twitter.com/_ambar_kansal"><img src="https://img.shields.io/badge/twitter-_%40ambar__kansal-blue"></a>
-  <a href="https://www.linkedin.com/in/ambar-kansal/"><img src="https://img.shields.io/badge/linkedin-ambar--kansal-blue"></a>
+  <a href="https://holopin.io/@ambar">
+    <img src="https://img.shields.io/badge/holopin-%40ambar-ff69b4">
+  </a>
+  <a href="https://twitter.com/_ambar_kansal">
+    <img src="https://img.shields.io/badge/twitter-_%40ambar__kansal-blue">
+  </a>
+  <a href="https://www.linkedin.com/in/ambar-kansal/">
+    <img src="https://img.shields.io/badge/linkedin-ambar--kansal-blue">
+  </a>
 </p>
 
 <!-- Skills & Interests -->
 <p align="center">
   <samp>
-    💻 Proficient in Java, Python, and C<br>
-    🌟 Exploring the world of Machine Learning<br>
-    🌐 Check out my Holopin board for a visual journey!<br>
-    🎯 Seeking exciting internship opportunities<br>
+    <h2>Skills & Interests</h2>
+    💡 Java, Python, C<br>
+    🧠 Machine Learning enthusiast<br>
+    🎮 Gamer in free time<br>
+    🎧 Music lover<br>
   </samp>
 </p>
 
@@ -37,12 +42,18 @@
 <!-- Projects -->
 <p align="center">
   <samp>
-    🚀 Always working on interesting projects and learning something new.<br>
+    <h2>Projects & Contributions</h2>
+    🚀 Always working on interesting projects<br>
     🔍 Explore my repositories to see my latest endeavors!<br>
   </samp>
 </p>
 
-<!-- Footer -->
+<!-- Contact Me -->
 <p align="center">
-  <img src="https://github.com/Ambarcode/Ambarcode/blob/main/footer.png" alt="Connect with me">
+  <samp>
+    <h2>Contact Me</h2>
+    📫 Feel free to reach out:<br>
+    <a href="mailto:ambarkansal2018@email.com">your@email.com</a><br>
+    <a href="https://twitter.com/_ambar_kansal">Twitter</a> | <a href="https://www.linkedin.com/in/ambar-kansal/">LinkedIn</a>
+  </samp>
 </p>
