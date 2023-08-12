@@ -1,24 +1,48 @@
-# 👋 Hi, I'm Ambar Kansal!
+<!-- Header -->
+<p align="center">
+  <img src="https://github.com/Ambarcode/Ambarcode/blob/main/header.png" alt="Ambar Kansal Header">
+</p>
 
-Welcome to my GitHub profile! I'm a passionate programmer with interests in Java, Python, and C. Currently, I'm diving into the exciting world of Machine Learning. I'm actively seeking internships to further develop my skills and contribute to impactful projects.
+<!-- Intro -->
+<p align="center">
+  <samp>
+    👋 Hi there, I'm Ambar Kansal! 🚀<br>
+    I'm passionate about coding and exploring new technologies.<br>
+    Welcome to my GitHub universe! ✨
+  </samp>
+</p>
 
-## Connect with Me
+<!-- Social Links -->
+<p align="center">
+  <a href="https://holopin.io/@ambar"><img src="https://img.shields.io/badge/holopin-%40ambar-ff69b4"></a>
+  <a href="https://twitter.com/_ambar_kansal"><img src="https://img.shields.io/badge/twitter-_%40ambar__kansal-blue"></a>
+  <a href="https://www.linkedin.com/in/ambar-kansal/"><img src="https://img.shields.io/badge/linkedin-ambar--kansal-blue"></a>
+</p>
 
-🌐 [Check out my Holopin board!](https://holopin.io/@ambar) - A visual representation of my journey and interests.
+<!-- Skills & Interests -->
+<p align="center">
+  <samp>
+    💻 Proficient in Java, Python, and C<br>
+    🌟 Exploring the world of Machine Learning<br>
+    🌐 Check out my Holopin board for a visual journey!<br>
+    🎯 Seeking exciting internship opportunities<br>
+  </samp>
+</p>
 
-📫 **How to reach me:**
-- Twitter: [@_ambar_kansal](https://twitter.com/_ambar_kansal)
-- LinkedIn: [Ambar Kansal](https://www.linkedin.com/in/ambar-kansal/)
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ambarcode&show_icons=true&theme=radical" alt="Ambar's GitHub Stats">
+</p>
 
-## GitHub Stats
+<!-- Projects -->
+<p align="center">
+  <samp>
+    🚀 Always working on interesting projects and learning something new.<br>
+    🔍 Explore my repositories to see my latest endeavors!<br>
+  </samp>
+</p>
 
-![Ambar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ambarcode&show_icons=true&theme=radical)
-
-## Projects and Contributions
-
-🚀 I'm always working on interesting projects and exploring new technologies. Check out my repositories to see what I've been up to!
-
-<!---
-Ambarcode/Ambarcode is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Footer -->
+<p align="center">
+  <img src="https://github.com/Ambarcode/Ambarcode/blob/main/footer.png" alt="Connect with me">
+</p>
