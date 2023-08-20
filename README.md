@@ -1,5 +1,9 @@
 <!-- Introduction -->
-![](https://komarev.com/ghpvc/?username=Ambarcode&label=PROFILE+VIEWS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ambarcode&label=PROFILE+VIEWS">
+  <br>
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200" height="200">
+</p>
 <p align="center">
   <samp>
     <h1>👋 Hi there, I'm Ambar Kansal!</h1>
