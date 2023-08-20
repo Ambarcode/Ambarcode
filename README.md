@@ -1,4 +1,5 @@
 <!-- Introduction -->
+![](https://komarev.com/ghpvc/?username=Ambarcode&label=PROFILE+VIEWS)
 <p align="center">
   <samp>
     <h1>👋 Hi there, I'm Ambar Kansal!</h1>
