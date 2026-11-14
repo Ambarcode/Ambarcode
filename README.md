@@ -52,13 +52,4 @@
     🔍 Explore my repositories to see my latest endeavors!<br>
   </samp>
 </p>
-
-<!-- Contact Me -->
-<p align="center">
-  <samp>
-    <h2>Contact Me</h2>
-    📫 Feel free to reach out:<br>
-    <a href="mailto:ambarkansal2018@email.com">your@email.com</a><br>
-    <a href="https://twitter.com/_ambar_kansal">Twitter</a> | <a href="https://www.linkedin.com/in/ambar-kansal/">LinkedIn</a>
-  </samp>
 </p>
